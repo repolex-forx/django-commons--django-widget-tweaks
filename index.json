@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-widget-tweaks",
+  "versions": [
+    {
+      "commit": "483b594c875469827d835941eba4856cec46a5d8",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:30:40.600045+00:00"
+    }
+  ]
+}
